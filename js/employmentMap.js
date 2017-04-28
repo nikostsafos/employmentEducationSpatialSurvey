@@ -23,7 +23,7 @@ var margin = {top: 30, right: 20, bottom: 20, left: 20},
 
 var results = d3.map();
 
-var path = d3.geoPath()
+var path = d3.geoPath(d3.geoIdentity().scale(.95));
 
 var color = d3.scaleOrdinal()
               .domain(['Top 20%', 'Bottom 20%'])

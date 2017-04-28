@@ -56,7 +56,7 @@ h2 {font-size:120%;}
 h3 {
   font-size: 100%;
   line-height: 1.4em;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 
 /********** Body **********/
@@ -168,7 +168,7 @@ text {
 }
 
 /********** Mobile compatibility **********/
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 920px) {
 
   #mapMobile {
     display: block;

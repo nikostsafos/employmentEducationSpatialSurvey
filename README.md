@@ -10,7 +10,7 @@ The data for this analysis come from the U.S. Census Bureau, 2011-2015 American 
 
 **css**: CSS style for the page. 
 
-**data**: Clean CSV data files for web rendering. Also R code to process data for web rendering.
+**data**: Clean CSV data files for web rendering. Also R code to process data.
 
 **img**: Open graph image for link sharing
 

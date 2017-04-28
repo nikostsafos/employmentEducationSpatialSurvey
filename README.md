@@ -8,8 +8,7 @@ Education enhances employment opportunities, but not uniformly. In some areas, p
 - High employment rates for the most educated do not mean high employment rates for the least educated: a rising tide does not lift all boats.
 - There are a few counties with very high or very low employment rates across all educational levels: some places are doing something very right or very wrong.
 
-The data for this analysis come from the Bureau of Labor Statistics (BLS), Current Employment Statistics - CES (National)
-- https://www.census.gov/programs-surveys/acs/
+The data for this analysis come from the U.S. Census Bureau, 2011-2015 American Community Survey 5-Year Estimates, S2301, Employment Status: https://www.census.gov/programs-surveys/acs/. 
 
 ### In this repository
 

@@ -1,0 +1,53 @@
+"Bracket","Variable","Value"
+"0-35","Less than high school graduate",0.912799
+"35-40","Less than high school graduate",1.347118
+"40-45","Less than high school graduate",1.637574
+"45-50","Less than high school graduate",2.694037
+"50-55","Less than high school graduate",3.651442
+"55-60","Less than high school graduate",3.736837
+"60-65","Less than high school graduate",4.082909
+"65-70","Less than high school graduate",1.351837
+"70-75","Less than high school graduate",0.288811
+"75-80","Less than high school graduate",0.01877
+"80-85","Less than high school graduate",0.011159
+"85-90","Less than high school graduate",0.002709
+"90-100","Less than high school graduate",0.000241
+"0-35","High school graduate (includes equivalency)",0.07221
+"35-40","High school graduate (includes equivalency)",0.087116
+"40-45","High school graduate (includes equivalency)",0.179224
+"45-50","High school graduate (includes equivalency)",0.441218
+"50-55","High school graduate (includes equivalency)",1.355642
+"55-60","High school graduate (includes equivalency)",3.377801
+"60-65","High school graduate (includes equivalency)",10.994005
+"65-70","High school graduate (includes equivalency)",17.232286
+"70-75","High school graduate (includes equivalency)",8.159913
+"75-80","High school graduate (includes equivalency)",1.761084
+"80-85","High school graduate (includes equivalency)",0.280664
+"85-90","High school graduate (includes equivalency)",0.038105
+"90-100","High school graduate (includes equivalency)",0.003595
+"0-35","Some college or associate's degree",0.005533
+"35-40","Some college or associate's degree",0.001236
+"40-45","Some college or associate's degree",0.033679
+"45-50","Some college or associate's degree",0.081395
+"50-55","Some college or associate's degree",0.209896
+"55-60","Some college or associate's degree",0.738518
+"60-65","Some college or associate's degree",1.953555
+"65-70","Some college or associate's degree",8.987304
+"70-75","Some college or associate's degree",20.818039
+"75-80","Some college or associate's degree",15.505243
+"80-85","Some college or associate's degree",2.278631
+"85-90","Some college or associate's degree",0.312053
+"90-100","Some college or associate's degree",0.004804
+"0-35","Bachelor's degree or higher",0.001307
+"35-40","Bachelor's degree or higher",0.00887
+"40-45","Bachelor's degree or higher",5.8e-05
+"45-50","Bachelor's degree or higher",0.00115
+"50-55","Bachelor's degree or higher",0.00862
+"55-60","Bachelor's degree or higher",0.019782
+"60-65","Bachelor's degree or higher",0.062562
+"65-70","Bachelor's degree or higher",0.344293
+"70-75","Bachelor's degree or higher",1.240546
+"75-80","Bachelor's degree or higher",6.981626
+"80-85","Bachelor's degree or higher",35.06858
+"85-90","Bachelor's degree or higher",8.297387
+"90-100","Bachelor's degree or higher",0.163272

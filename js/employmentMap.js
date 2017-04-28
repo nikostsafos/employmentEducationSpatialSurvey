@@ -23,11 +23,7 @@ var margin = {top: 30, right: 20, bottom: 20, left: 20},
 
 var results = d3.map();
 
-// var projection = d3.geoAlbersUsa()
-//                         .scale(500)
-//                         .translate([width / 2, height / 2]);
-
-var path = d3.geoPath();//.projection(projection);
+var path = d3.geoPath()
 
 var color = d3.scaleOrdinal()
               .domain(['Top 20%', 'Bottom 20%'])

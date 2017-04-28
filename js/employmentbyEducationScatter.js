@@ -63,7 +63,6 @@ var plotHeight;
           .text(function(d) { return d.key; });
 
       svg.append('text')
-         .attr('class', 'xaxis')
          .attr('transform', 'translate(0,' + height + ')')
          .attr('x', width/2)
          .attr('y', 0)
@@ -72,7 +71,6 @@ var plotHeight;
          .text('Emp-Pop Ratio, ages 25-64 (BA or higher)');
 
       svg.append('text')
-         .attr('class', 'xaxis')
          .attr('transform', 'rotate(-90)')
          .attr('x', 0)
          .attr('y', 0)

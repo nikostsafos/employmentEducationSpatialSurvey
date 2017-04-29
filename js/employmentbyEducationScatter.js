@@ -12,7 +12,7 @@ var plotHeight;
   else if (contentWidth >= 500) {plotHeight = contentWidth/3;} 
   else { plotHeight = contentWidth/2; }
 
-  var margin = {top: 30, right: 20, bottom: 20, left: 20},
+  var margin = {top: 30, right: 20, bottom: 20, left: 30},
       width = plotWidth - margin.left - margin.right,
       height = plotHeight - margin.top - margin.bottom;
 
